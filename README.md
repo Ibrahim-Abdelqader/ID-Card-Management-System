@@ -82,5 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 📧 Contact
-If you have any questions or suggestions, feel free to reach out via GitHub or email.
-Email: Ibrahim.Ibrahim051@eng-st.cu.edu.eg
+If you have any questions or suggestions, feel free to reach out via GitHub or email at [Ibrahim.Ibrahim051@eng-st.cu.edu.eg]
