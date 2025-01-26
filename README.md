@@ -8,14 +8,14 @@ The **ID Card Management System** is a Java-based desktop application designed t
 ---
 
 ## 🗒️ Table of Contents
-1. [Features](#-features)
-2. [Technology Stack](#-technology-stack)
-3. [How It Works](#-how-it-works)
-4. [Setup Instructions](#-setup-instructions)
-5. [Team Members](#-team-members)
-6. [Contributions](#-contributions)
-7. [License](#-license)
-8. [Contact](#-contact)
+1. [✨ Features](#-features)
+2. [🛠️ Technology Stack](#-technology-stack)
+3. [🚀 How It Works](#-how-it-works)
+4. [🖥️ Setup Instructions](#-setup-instructions)
+5. [👥 Team Members](#-team-members)
+6. [🤝 Contributions](#-contributions)
+7. [📜 License](#-license)
+8. [📧 Contact](#-contact)
 
 ---
 
